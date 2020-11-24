@@ -1,6 +1,3 @@
-# osCommerce
-osCommerce plugin for the UniversalPay Gateway
-
 ![GitHub license](https://img.shields.io/github/license/UniversalPay/osCommerce)
 ![Version](https://img.shields.io/badge/version-1.1.0-informational)
 
